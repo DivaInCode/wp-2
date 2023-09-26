@@ -10,4 +10,16 @@ class LoginController extends BaseController
     {
         //
     }
+
+    public function Daftar(){
+
+    }
+
+    public function Masuk(){
+
+    }
+
+    public function LupaPassword(){
+
+    }
 }
