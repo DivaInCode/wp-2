@@ -30,7 +30,7 @@ class KategoriController extends BaseController
     public function update()
     {
         // menyimpan perubahan
-    }
+    } 
     public function destroy()
     {
         // menghapus item
