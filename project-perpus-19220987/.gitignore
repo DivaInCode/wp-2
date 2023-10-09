@@ -125,3 +125,6 @@ nb-configuration.xml
 /phpunit*.xml
 /.phpunit.*.cache
 
+# Ignore CodeIgniter 4 database configuration
+app/Config/Database.php
+
